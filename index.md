@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New day is coming
+title: 今、情热が岚になって
 ---
 ## 近期
 
