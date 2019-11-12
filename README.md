@@ -3,7 +3,7 @@ layout: page
 title: 关于
 permalink: /about
 ---
-## 开始
+## 开始 testing
 
 1. Fork [wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io/fork)到你的仓库，并在设置里开启gh-pages
 2. 修改`_config.yml`为你自己的信息
